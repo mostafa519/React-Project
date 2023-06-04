@@ -1,0 +1,13 @@
+.Boddy{
+    width: 100%;
+    height: 500px; 
+/* background-image: url("https://cdn.pixabay.com/photo/2013/07/18/20/26/sea-164989__180.jpg");  */
+background-clip: border-box;
+background-attachment:  fixed;
+background-size:  cover;
+}
+#r{
+    padding-top: 200px;
+    align-items: center;
+    color: bisque;
+}
